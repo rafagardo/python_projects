@@ -1,0 +1,1 @@
+print("El nombre ideal es:\n" + "\"" + input("En una sola palabra, define que es lo que quieres emprender (cervecería, hotel, peluqería, etc.): ") + " " + input("Ciudad en donde se ubica el negocio: ") + "\"")
